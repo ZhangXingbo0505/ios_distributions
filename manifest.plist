@@ -30,15 +30,15 @@
 		<key>metadata</key>
 		<dict>
 			<key>bundle-identifier</key>
-			<string>com.SimBest.scc</string>//
+			<string>com.SimBest.scc</string>
 			<key>bundle-version</key>
-			<string>5.5.0</string>//版本号
+			<string>5.5.0</string>
 			<key>kind</key>
 			<string>software</string>
 			<key>title</key>
-			<string>live4iPhone</string>//app名字
+			<string>live4iPhone</string>
 			<key>subtitle</key>
-			<string>鸡年大吉</string>//随便
+			<string>鸡年大吉</string>
 		</dict>
 	</dict>
 </array>
